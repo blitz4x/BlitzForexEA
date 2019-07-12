@@ -1,13 +1,14 @@
 # BlitzForexEA Centralized Trading System
-Scarica il Blitz Forex EA libero e gratuito
 
 > **Chi dice che è impossibile, non dovrebbe disturbare chi ce la sta facendo**
 >
 > **Albert Einstein**
 
-Sul sito [**https://forum.forexup.biz**](https://forum.forexup.biz/viewtopic.php?f=13&t=4279) hai tutto lo spazio per dubbi, domande, ma soprattutto se hai idee, suggerimenti e miglioramenti
+Dai file in alto Scarica il BlitzForexEA-V01-php.mq4 libero e gratuito
 
-L'impiego del **BlitzForexEA-V01** è semplicissimo: scaricalo nella solita directory EXPERTS della tua meta e lancialo come un qualunque altro EA
+Sul sito [**https://forum.forexup.biz**](https://forum.forexup.biz/viewtopic.php?f=13&t=4312) hai tutto lo spazio per dubbi, domande, ma soprattutto se hai idee, suggerimenti e miglioramenti
+
+L'impiego del **BlitzForexEA-V01-ph** è semplicissimo: scaricalo nella solita directory EXPERTS della tua meta e lancialo come un qualunque altro EA
 
 Questi i pochi parametri da impostare
 
