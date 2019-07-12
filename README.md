@@ -4,11 +4,9 @@
 >
 > **Albert Einstein**
 
-Dai file in alto Scarica il BlitzForexEA-V01-php.mq4 libero e gratuito
-
 Sul sito [**https://forum.forexup.biz**](https://forum.forexup.biz/viewtopic.php?f=13&t=4312) hai tutto lo spazio per dubbi, domande, ma soprattutto se hai idee, suggerimenti e miglioramenti
 
-L'impiego del **BlitzForexEA-V01-ph** è semplicissimo: scaricalo nella solita directory EXPERTS della tua meta e lancialo come un qualunque altro EA
+L'impiego del **BlitzForexEA-V01-ph** è semplicissimo: scarica il file in alto nella solita directory EXPERTS della tua meta e lancialo come un qualunque altro EA
 
 Questi i pochi parametri da impostare
 
