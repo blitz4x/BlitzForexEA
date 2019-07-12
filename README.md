@@ -7,9 +7,9 @@ Scarica il Blitz Forex EA libero e gratuito
 
 Sul sito [**https://forum.forexup.biz**](https://forum.forexup.biz/viewtopic.php?f=13&t=4279) hai tutto lo spazio per dubbi, domande, ma soprattutto se hai idee, suggerimenti e miglioramenti
 
-L'impiego del Blitz Forex EA è semplicissimo: scaricalo nella solita directory EXPERTS della tua meta e lancialo come un qualunque altro EA
+L'impiego del **BlitzForexEA-V01** è semplicissimo: scaricalo nella solita directory EXPERTS della tua meta e lancialo come un qualunque altro EA
 
-Questi i semplici parametri da impostare
+Questi i pochi parametri da impostare
 
 1.  Il nome... che ovviamente non devi cambiarlo !
 2.  Il lotto da usare **controlla attentamente il sito per valutare l'impegno richiesto in termini di numero di ordini INIZIALI, poi tutti gli altri li apriamo sul guadagno che cresce**
@@ -17,6 +17,7 @@ Questi i semplici parametri da impostare
 4.  Take e Stop in pip PER LA GIORNATA, se non li vuoi metti un numero altissimo, tipo 5000
 5.  Il prefisso se il tuo broker lo usa, ad esempio se vedi **fx-EURUSD** allora metti **fx-** se no lascialo vuoto
 6.  Il suffisso se il tuo broker lo usa, ad esempio se vedi **EURUSD.p** allora metti **.p** altrimenti lascialo vuoto
+7.  ...i colori !
 
 **In allegato il codice originale dell'EA in MQL4 e un paio di immagini per capire meglio come funzionano**
 
