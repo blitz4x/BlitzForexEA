@@ -4,7 +4,7 @@
 >
 > **Albert Einstein**
 
-Sul sito [**https://forum.forexup.biz**](https://forum.forexup.biz/viewtopic.php?f=13&t=4312) hai tutto lo spazio per dubbi, domande, ma soprattutto se hai idee, suggerimenti e miglioramenti
+Sul sito [**https://blitz4x.com**](https://blitz4x.com) hai tutto lo spazio per dubbi, domande, ma soprattutto se hai idee, suggerimenti e miglioramenti
 
 L'impiego del **BlitzForexEA-V01-php.mq4** è semplicissimo: scarica il file che vedi in alto e mettilo nella solita directory EXPERTS della tua meta, poi apri la meta, te lo ritrovi tra gli altri experts e lancialo appunto come un qualunque altro EA
 
